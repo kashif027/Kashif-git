@@ -40,7 +40,7 @@ I believe in learning by building real-world projects and improving my skills ev
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn link*
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-kashif-752aa6380/
 - 📧 Email:kingkashi027@gmail.com
 - 🌐 Portfolio: *Coming Soon*
 
