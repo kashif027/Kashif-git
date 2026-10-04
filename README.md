@@ -28,8 +28,9 @@ I believe in learning by building real-world projects and improving my skills ev
 
 - Advanced Machine Learning
 - Data Structures & Algorithms
-- Full-Stack Web Development
+-  Web Development
 - System Design
+- python programming
 
 ## 📌 Goals
 
@@ -37,6 +38,7 @@ I believe in learning by building real-world projects and improving my skills ev
 - Strengthen problem-solving skills through DSA
 - Contribute to Open Source
 - Secure a Software Engineer or Machine Learning Engineer role
+- build a modern developed ai assistant
 
 ## 📫 Connect With Me
 
